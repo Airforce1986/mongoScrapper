@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dzimmerman902/mongoScrapper.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dzimmerman902/mongoScrapper/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/dzimmerman902/mongoScrapper#readme",
+  "homepage": "",
   "dependencies": {
     "body-parser": "^1.17.1",
     "cheerio": "^0.22.0",
