@@ -1,0 +1,27 @@
+{
+  "name": "mongoscrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "\t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzimmerman902/mongoScrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzimmerman902/mongoScrapper/issues"
+  },
+  "homepage": "https://github.com/dzimmerman902/mongoScrapper#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.8.6",
+    "request": "^2.81.0"
+  }
+}
